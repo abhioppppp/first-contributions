@@ -2259,6 +2259,7 @@ guru
 - [CoreDumpNotCrash](https://github.com/CoreDumpNotCrash)
 - [Suinnnn](https://github.com/Suinnnn)
 - [Peter Imoh Victor](https://github.com/peterimoh)
+- [Abhinav Anand](https://github.com/Abhinav158)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Daniel Peralta](https://github.com/DDalta)
 - [Michael Ofuzor] (https://github.com/mcofuzor/first-contributions)
